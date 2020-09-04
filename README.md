@@ -6,7 +6,7 @@
 
 Welcome to my Github Page.
 
-## :computer: Technologies I Love
+## :computer: Programming Languages I Love
 * Javascript
 * Ruby
 * Elixir
