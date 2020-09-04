@@ -17,3 +17,5 @@ Welcome to my Github Page.
 ## Work
  * I'm currently working at <img src = 'https://github.com/abulsayyad123/abulsayyad123/blob/master/images/kiprosh.svg' width='60' /> as Senior Software Engineer.
  * Feel free to connect me on linkedin or email me :smile:
+
+![AbulAsar's github stats](https://github-readme-stats.vercel.app/api?username=abulsayyad123&show_icons=true&hide=[%22issues%22])
