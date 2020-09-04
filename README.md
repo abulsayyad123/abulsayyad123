@@ -15,5 +15,5 @@ Welcome to my Github Page.
 <img src = 'https://github.com/abulsayyad123/abulsayyad123/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/abulsayyad123/abulsayyad123/blob/master/images/ruby.svg' width='30'/> <img src = 'https://github.com/abulsayyad123/abulsayyad123/blob/master/images/elixir-lang.svg' width='30'/> <img src = 'https://github.com/abulsayyad123/abulsayyad123/blob/master/images/phoenix.svg' width='30'/> <img src = 'https://github.com/abulsayyad123/abulsayyad123/blob/master/images/rails.svg' width='30'/> <img src = 'https://github.com/abulsayyad123/abulsayyad123/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/abulsayyad123/abulsayyad123/blob/master/images/html.svg' width='33'/> <img src = 'https://github.com/abulsayyad123/abulsayyad123/blob/master/images/css.svg' height='40'/> <img src = 'https://github.com/abulsayyad123/abulsayyad123/blob/master/images/node.svg' width='30'/>
 
 ## Work
- * I'm currently working at <img src = 'https://github.com/abulsayyad123/abulsayyad123/blob/master/images/kiprosh.svg' width='30'/> as Senior Software Engineer.
+ * I'm currently working at <img src = 'https://github.com/abulsayyad123/abulsayyad123/blob/master/images/kiprosh.svg' width='60' /> as Senior Software Engineer.
  * Feel free to connect me on linkedin or email me :smile:
