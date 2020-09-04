@@ -18,4 +18,35 @@ Welcome to my Github Page.
  * I'm currently working at <img src = 'https://github.com/abulsayyad123/abulsayyad123/blob/master/images/kiprosh.svg' width='60' /> as Senior Software Engineer.
  * Feel free to connect me on linkedin or email me :smile:
 
+### Who am I?
+ ```elixir
+ defmodule MySelf do
+  use GenServer
+  @user "AbulAsar"
+
+  def start_link(abul_asar) do
+    GenServer.start_link(__MODULE__, abul_asar)
+  end
+
+  def init(intial_value) do
+    {:ok, {:name, @user}}
+  end
+
+  def handle_call(:city, state) do
+    {:reply, "Mumbai"}
+  end
+
+  def handle_call(:interest, state) do
+    {:reply, ["Programming", "Cooking Food"]}
+  end
+  
+  def handle_call(:interest, state) do
+    {:reply, ["Programming", "Cooking Food"]}
+  end
+
+  def handle_call(:work, state) do
+    {:reply, "Kiprosh"}
+  end
+end
+```
 ![AbulAsar's github stats](https://github-readme-stats.vercel.app/api?username=abulsayyad123&show_icons=true&hide=[%22issues%22])
