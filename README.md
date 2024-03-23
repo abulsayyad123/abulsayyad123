@@ -37,11 +37,11 @@ Welcome to my Github Page.
   end
 
   def handle_call(:interest, state) do
-    {:reply, ["Programming", "Cooking"]}
+    {:reply, ["Programming", "Watching Movies"]}
   end
   
   def handle_call(:work, state) do
-    {:reply, "Kiprosh"}
+    {:reply, "Independent Software Consultant"}
   end
 end
 ```
